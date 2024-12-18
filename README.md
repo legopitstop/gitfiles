@@ -7,7 +7,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![Issues](https://img.shields.io/github/issues/legopitstop/gitfiles)](https://github.com/legopitstop/gitfiles/issues)
 
-Load, filter and match `.gitingore` files.
+Load, filter and match `.gitignore` files.
 
 ## Installation
 
